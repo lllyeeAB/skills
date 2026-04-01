@@ -1,0 +1,7 @@
+interface:
+  display_name: "绩效自评写作"
+  short_description: "将日报周报和任务记录整理成可直接提交的绩效自评材料"
+  default_prompt: "使用 $performance-self-review 将我的工作记录整理成可直接提交的绩效自评或述职内容。"
+
+policy:
+  allow_implicit_invocation: true
